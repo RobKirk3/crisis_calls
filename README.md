@@ -26,11 +26,11 @@ My role as Team Lead was as follows:
 - Share my team's work with other teams
 - Communicate project needs to my team
 - Assign tasks and meet deadlines
-- I also did analysis and made graphs in Python
+- Analyze data and produce graphs in Python
 - Collaborate with other teams whose work crossed over with ours
 
-In the presentation I presented on slides 10-19, with slide 13 being a chart that I made. 
+In the presentation I presented slides 10-19, with slide 13 being a chart that I made. 
 
 ## Takeaways
-This project was a fantastic learning experience. As a class we were able to deliver very effective insights to FCS that will help them not only with staffing but also in their fundraising efforts. 
+This project was a fantastic learning experience. As a class we were able to deliver effective insights to FCS that will help them with staffing and fundraising. 
 It was also very collaborative as our class did a fantastic job communicating and working together. We made the presentation on Google Slides which allowed multiple people to edit the presentation at once. 
